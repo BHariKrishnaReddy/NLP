@@ -1,4 +1,4 @@
-# Spam Classifier
+## Spam Classifier
 Dataset : UCI ML repo
 
 ### Flow
