@@ -1,7 +1,10 @@
 # NLP
-> \\...work in progress...\\ please visit after some time for few more NLP topics
+<p align="center">
+    <h4 align="center"> Work Inprogress </h4>
 
-Steps in NLP
+>Expectations : This Repo should be serving as CrashNotes or Quick Reference for most of the topics
+
+Things required in a Natural Language Processor
 
 #### Tokenization
 * Splitting phrase,sentence, paragraph or an entire text document into smaller units called tokens
