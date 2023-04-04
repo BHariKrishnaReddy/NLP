@@ -3,6 +3,7 @@
     <h4 align="center"> Work Inprogress </h4>
 
 >Expectations : This Repo should be serving as CrashNotes or Quick Reference for most of the projects I built
+>Currntly working on to build NLP models 
 
 Things required in a Natural Language Processor
 
@@ -32,4 +33,3 @@ from gensim.utils import tokenize     # convert the output to list -> list(token
 <p align="center">
     Encoding  text into Machine readable data!
 </p>
-
