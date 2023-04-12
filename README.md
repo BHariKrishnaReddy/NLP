@@ -1,12 +1,22 @@
-# NLP
 <p align="center">
-    <h4 align="center"> Work Inprogress </h4>
+    <h4 align="center"> **Work Inprogress** </h4>
 
->Expectations : This Repo should be serving as CrashNotes or Quick Reference for most of the projects I built
->Currntly working on to build NLP models 
+<p align="center">
+    Expectations : This Repo should be serving as CrashNotes or Quick Reference for most of the NLP topics.
+    </p>
 
-Things required in a Natural Language Processor
+# NLP
 
+# Table of Contents
+
+
+| Type      | Commonly used methods                | CheckBox  |
+|------------|------------------------------------------------------------------------------------------------------------------------|------------|
+| [Text Preprocessing](#Text-Preprocessing)     |  | <ul><li>- [ ] todo</li></ul>       |
+
+
+
+## Text Preprocessing
 #### Tokenization
 * Splitting phrase,sentence, paragraph or an entire text document into smaller units called tokens
 * Diffrent ways to do is...
