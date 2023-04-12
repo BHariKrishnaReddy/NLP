@@ -30,12 +30,9 @@ from gensim.utils import tokenize     # convert the output to list -> list(token
 ```
 
 #### Stemming
-* We employ stemming to reduce words to their base form some time the output words are incorrect so we prefer to do *Lemmatization over Stemming*.
-> not going into deep to save time if intrested look out for articels (not by me :)
-
+* > Stemming is a process of reducing words to their root or base form, which is called a "stem".
 #### Lemmatization
-* In this the word generation after chopping is always meaningful.So, Lemmatization is better  than stemming ):
-* Diffrent ways to do ...
+* > Lemmatization looks beyond word reduction and considers a language’s full vocabulary to apply a morphological analysis to words.
 ```commandline
 
 ```
