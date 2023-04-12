@@ -12,7 +12,8 @@
 
 | Type      | Commonly used methods                | CheckBox  |
 |------------|------------------------------------------------------------------------------------------------------------------------|------------|
-| [Text Preprocessing](#Text-Preprocessing)     |  | <ul><li>- [ ] todo</li></ul>       |
+| [Text Preprocessing](#Text-Preprocessing)     | [Tokenization,Stemming,Lemma...](https://github.com/BHariKrishnaReddy/NLP/blob/main/01%20TextPreprocessing/TextPreprocessing.ipynb) | <ul><li>- [ ] todo</li></ul>       |
+|  |  | <ul><li>- [ ] todo</li></ul>       |
 
 
 
