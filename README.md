@@ -24,6 +24,8 @@
 * > Stemming is a process of reducing words to their root or base form, which is called a "stem".
 #### Lemmatization
 * > Lemmatization looks beyond word reduction and considers a language’s full vocabulary to apply a morphological analysis to words.
+#### StopWords
+* > Stop words are a set of unimportant words(“the”, “is” “and” ..). We need to remove,for allowing applications to focus on the important words instead.
 
 <p align="center">
     <h4 align="center"> **Work Inprogress** </h4></p>
